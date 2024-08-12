@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MemeGenerator" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/my_dark_primary</item>
+        <item name="colorPrimaryDark">@color/my_dark_primary_dark</item>
+        <item name="colorAccent">@color/my_dark_accent</item>
+        <item name="android:windowBackground">@color/my_dark_background</item>
+        <item name="android:textColor">@color/my_dark_text</item>
+    </style>
+</resources>
